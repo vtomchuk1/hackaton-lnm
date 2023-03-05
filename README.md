@@ -7,7 +7,7 @@ hackaton-lnm-back
 + virtualenv enviroment
 
 how to start
-+ cd hackaton-lnnm-back
++ cd hackaton-lnm-back
 + source scripts/Scripts/activate
 + uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
